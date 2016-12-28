@@ -1,0 +1,10 @@
+D:\Downloads\VS2013-Projects-master\VS2013-Projects-master\CardGame21\CardGame21\bin\Debug\CardGame21.exe.config
+D:\Downloads\VS2013-Projects-master\VS2013-Projects-master\CardGame21\CardGame21\bin\Debug\CardGame21.exe
+D:\Downloads\VS2013-Projects-master\VS2013-Projects-master\CardGame21\CardGame21\bin\Debug\CardGame21.pdb
+D:\Downloads\VS2013-Projects-master\VS2013-Projects-master\CardGame21\CardGame21\obj\Debug\CardGame21.csprojResolveAssemblyReference.cache
+D:\Downloads\VS2013-Projects-master\VS2013-Projects-master\CardGame21\CardGame21\obj\Debug\CardGame21.Form1.resources
+D:\Downloads\VS2013-Projects-master\VS2013-Projects-master\CardGame21\CardGame21\obj\Debug\CardGame21.Properties.Resources.resources
+D:\Downloads\VS2013-Projects-master\VS2013-Projects-master\CardGame21\CardGame21\obj\Debug\CardGame21.csproj.GenerateResource.Cache
+D:\Downloads\VS2013-Projects-master\VS2013-Projects-master\CardGame21\CardGame21\obj\Debug\CardGame21.exe
+D:\Downloads\VS2013-Projects-master\VS2013-Projects-master\CardGame21\CardGame21\obj\Debug\CardGame21.pdb
+D:\Downloads\VS2013-Projects-master\VS2013-Projects-master\CardGame21\CardGame21\obj\Debug\CardGame21.PopupAce.resources
