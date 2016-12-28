@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+//TEST
 
 namespace CardGame21
 {
@@ -16,7 +17,6 @@ namespace CardGame21
         int counter = 0;
         public int value = 0;
         int oldvalue = 0;
-        public int acecheck = 0;
 
         public static class GetValues
         {
