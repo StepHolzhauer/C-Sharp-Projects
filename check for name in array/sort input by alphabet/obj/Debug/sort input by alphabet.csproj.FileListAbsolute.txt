@@ -1,0 +1,6 @@
+c:\users\monokuma\documents\visual studio 2013\Projects\sort input by alphabet\sort input by alphabet\bin\Debug\sort input by alphabet.exe.config
+c:\users\monokuma\documents\visual studio 2013\Projects\sort input by alphabet\sort input by alphabet\bin\Debug\sort input by alphabet.exe
+c:\users\monokuma\documents\visual studio 2013\Projects\sort input by alphabet\sort input by alphabet\bin\Debug\sort input by alphabet.pdb
+c:\users\monokuma\documents\visual studio 2013\Projects\sort input by alphabet\sort input by alphabet\obj\Debug\sort input by alphabet.csprojResolveAssemblyReference.cache
+c:\users\monokuma\documents\visual studio 2013\Projects\sort input by alphabet\sort input by alphabet\obj\Debug\sort input by alphabet.exe
+c:\users\monokuma\documents\visual studio 2013\Projects\sort input by alphabet\sort input by alphabet\obj\Debug\sort input by alphabet.pdb
